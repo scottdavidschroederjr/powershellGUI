@@ -1,7 +1,7 @@
 Use Tkinter and PyInstaller to create an executable GUI that runs PowerShell commands to speed up the process of adding users to AD software groups.
 
 **How to Use**
-<img src="https://i.imgur.com/S0OTwdE.jpeg" align="center" height="350" width="600"/>
+<img src="https://i.imgur.com/S0OTwdE.jpeg" align="center"/>
 
 Using the application is quite straightforward. Once opening the app, you choose the piece of software and platform then type in the username of the person who you want added to the software group in AD and the powershell command runs with those paramiters. 
 
